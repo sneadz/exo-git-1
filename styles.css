@@ -10,3 +10,7 @@ header a {
 header img {
 	height: 50px;
 }
+
+footer {
+	background: blue;
+}
