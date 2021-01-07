@@ -12,5 +12,8 @@ header img {
 }
 
 footer {
+	color: white;
 	background: blue;
+	margin: 10px;
+	padding: 10px;
 }
